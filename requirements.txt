@@ -1,0 +1,10 @@
+chainlit
+pandas
+python-docx
+pymupdf
+python-pptx
+beautifulsoup4
+lxml
+langchain-google-genai
+langchain-core
+langchain-community
